@@ -45,6 +45,8 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikram-sharma1&&theme=highcontrast" alt="vikram-sharma1" /></p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+<!-- Graph  -->
+
 
 <br/>
 <br/>
@@ -56,7 +58,7 @@
 ## Contact Me ☎️
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/shashi-kumar-0a4835150/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/vikram--sharma/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
  * Mail me on thevikramdeveloper@gmail.com
 
 </p>
