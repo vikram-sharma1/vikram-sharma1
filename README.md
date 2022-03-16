@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shashi Kumar  <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50px"</h1>
+<h1 align="center">Hi 👋, I'm Vikram Sharma  <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50px"</h1>
 
 ##  🙋‍♂️ Who Am I?
 <h3 >I'm a passionate Full Stack Web Developer from India.</h3>
@@ -7,7 +7,7 @@
  - 🌱 I’m currently learning *MERN Stack*
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 <!-- - 🌱 I’m currently learning various new technologies. -->
- - 👨‍💻 All of my projects are available at **[My Portfolio](https://shashi-portfolio.vercel.app/)**
+ - 👨‍💻 All of my projects are available at **[My Portfolio]("")**
 <!--  - 📫 How to reach me *shekhar.shashi735@gmail.com* -->
 - 💬 Ask me about anything, I am happy to help;
 
@@ -48,7 +48,7 @@
 
 <br/>
 <br/>
-<img alt="Shashi kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vikram-sharma1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img alt="Vikram Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vikram-sharma1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 <br/>
 <br/>
