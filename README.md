@@ -6,9 +6,9 @@
 
  - 🌱 I’m currently learning *MERN Stack*
 - 👯 I’m looking to collaborate on *OpenSource Projects*
-<!-- - 🌱 I’m currently learning various new technologies. -->
- - 👨‍💻 All of my projects are available at **[My Portfolio]("")**
-<!--  - 📫 How to reach me *shekhar.shashi735@gmail.com* -->
+
+ - 👨‍💻 All of my projects are available at **[My Portfolio]("https://port-folio-vikram-sharma1.vercel.app/")**
+
 - 💬 Ask me about anything, I am happy to help;
 
   ## 🚀 Languages and Tools:
@@ -32,7 +32,7 @@
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
-<p align="center"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram-sharma1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<p align="center"><img alt="Vikram Sharma's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram-sharma1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
        
 </p>
  
