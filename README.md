@@ -7,7 +7,10 @@
  - 🌱 I’m currently learning *MERN Stack*
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 
- - 👨‍💻 All of my projects are available at **[My Portfolio]("https://port-folio-vikram-sharma1.vercel.app/")**
+ - 👨‍💻 All of my projects are available at
+ <a href = "https://port-folio-vikram-sharma1.vercel.app/"> **[My Portfolio]**</a>
+  
+  <!-- **[My Portfolio]("https://port-folio-vikram-sharma1.vercel.app/")** -->
 
 - 💬 Ask me about anything, I am happy to help;
 
