@@ -44,9 +44,9 @@
 
   <br/>
   <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikram-sharma1&show_icons=true&locale=en&theme=highcontrast" alt="Abhijeet9242" width="80%" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikram-sharma1&show_icons=true&locale=en&theme=highcontrast" alt="Abhijeet9242" width="50%" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikram-sharma1&&theme=highcontrast" alt="vikram-sharma1" width="80%" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikram-sharma1&&theme=highcontrast" alt="vikram-sharma1" width="50%" />
   </div>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
