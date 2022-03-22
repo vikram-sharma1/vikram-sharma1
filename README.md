@@ -43,7 +43,7 @@
 ## 📊 My Github Stats
 
   <br/>
-  <div>
+  <div style="display:flex">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikram-sharma1&show_icons=true&locale=en&theme=highcontrast" alt="Abhijeet9242" width="50%" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikram-sharma1&&theme=highcontrast" alt="vikram-sharma1" width="50%" />
